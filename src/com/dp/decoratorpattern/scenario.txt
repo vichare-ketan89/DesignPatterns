@@ -1,0 +1,7 @@
+Example describes Decorator pattern with the help of Beverages.
+
+We have some coffee types e.g BlackCoffee, DarkRoast, Cappuccino, etc.
+Each of these coffees can be customized(decorated) by adding condiments like extra cream, extra milk or extra mocha.
+
+Objective is to find cost, when additional condiments are added. 
+ 
