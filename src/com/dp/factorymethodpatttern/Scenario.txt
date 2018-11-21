@@ -1,0 +1,3 @@
+We have few Pizza Store, each located in different regions across cities.
+
+Each Store manufactures modify preparation as per the region, even though basic ingredients remain same. 
